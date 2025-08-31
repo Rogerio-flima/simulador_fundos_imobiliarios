@@ -17,5 +17,5 @@ Este projeto é um simulador de investimentos em Fundos Imobiliários (FIIs), de
 
 **Rogério Ferreira Lima**  
 Embaixador DIO
-LinkedIn
+
 
