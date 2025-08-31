@@ -1,8 +1,21 @@
-githubDev365_Rogerio_F_Lima
 
-Projeto iniciado em 06/07/2024 
+# Simulador de Investimentos para Fundos Imobiliários
 
-Com objetivo de conectar as bases de arquivos em Excel exportadas das ferramentas SAP, SGNF e QLIK Sense em um repositórios para conectar as ferramentas de BI (inicialmente o Power BI). 
+Este projeto é um simulador de investimentos em Fundos Imobiliários (FIIs), desenvolvido em Excel, com foco em:
 
-githubDev365_Rogerio_F_Lima
-#githubDev365_Rogerio_F_Lima
+- Projeção de patrimônio acumulado e dividendos mensais
+- Alocação sugerida por perfil de investidor (Conservador, Moderado, Agressivo)
+- Cálculo de metas com base em tempo, aporte e rendimento
+
+## Funcionalidades
+
+- Simulação de investimento mensal com taxa de rendimento
+- Estimativas de dividendos ao longo dos anos
+- Distribuição percentual por tipo de FII: Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelaria
+
+## Autor
+
+**Rogério Ferreira Lima**  
+Embaixador DIO | Representante do Suprimentos CSC da Eletrobras  
+LinkedIn
+
