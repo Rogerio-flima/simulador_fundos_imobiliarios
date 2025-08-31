@@ -16,6 +16,6 @@ Este projeto é um simulador de investimentos em Fundos Imobiliários (FIIs), de
 ## Autor
 
 **Rogério Ferreira Lima**  
-Embaixador DIO | Representante do Suprimentos CSC da Eletrobras  
+Embaixador DIO
 LinkedIn
 
